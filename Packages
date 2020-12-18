@@ -1,7 +1,7 @@
 Package: com.alex.tapfire
 Name: Agario 2.14.0b1 Mod Menu
 Depends: mobilesubstrate
-Version: 2.14.0-1+debug
+Version: 2.14.0b1
 Architecture: iphoneos-arm
 Description: Tap Fire In Target, Play Better! Enjoy.
 Maintainer: Al3xT
@@ -9,8 +9,8 @@ Author: Al3xT
 Section: Tweaks
 Installed-Size: 2252
 Filename: /debs/Agario.deb
-Size: 452250
-MD5sum: e898f16d412fd2f9cb1bc57de2a93826
-SHA1: ec31a9a1330c625b60a789d28b2e666924af955e
-SHA256: 23e395cba9c970df59b4524329d1b652595aa7a4ea0e2b9ef05c4f0e7b021ff2
+Size: 415600
+MD5sum: c10a60077d946a6bc188e571d0d6c421
+SHA1: cc7c51b81f8c9e9a5fc032f3aa01d99f3f26b3fc
+SHA256: d47a3b402260142a2f444eec885307a95de87633911711ab123207b39fa9c715
 Depiction: https://Al3xT-Ios.com
