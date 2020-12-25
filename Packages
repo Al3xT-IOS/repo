@@ -8,6 +8,8 @@ Architecture: iphoneos-arm
 Filename: /debs/Agario.deb
 Size: 364856
 MD5sum: e5b5fc44b499e400fe9743b4ab8f68e6
+SHA1: 633bc1d6c3b4d8cc13579de980bc5f30d9c3c63a
+SHA256: 01563a93a6cb8c4b6bc9da6c2bf478ac1a2b1ea1666a61180a4a50a914ab88df
 Description: This is an extension for Agar.io. You want to shoot mass faster? You want to have an advantage over other online players? That extension is just what you need. It comes with many other options and a newly redesigned user interface.
 Author: Al3xT <admin@Al3xT-IOS.com>
-Depiction: https://Al3xT-IOS.github.io/repo/depictions/?p=com.alex.tapfire
+Depiction: https://Al3xT-IOS.github.io/repo
