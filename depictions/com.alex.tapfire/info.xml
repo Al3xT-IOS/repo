@@ -1,0 +1,35 @@
+<package>
+	<id>com.alex.tapfire</id>
+	<name>Agario Mod Menu</name>
+	<version>2.14.0-b4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This cheat is now support from IOS 11.0 to latest IOS version(14.2)</shortDescription>
+	<descriptionlist>
+		<description>You Can Shoot Faster!</description>
+		<description>Zoom In and Zoom Out!</description>
+		<description>Much More Features!</description>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Here is a screenshot and as you can see its so cool!</description>
+			<image>screenshot.jpg</image>
+		</screenshot>		
+	<changelog>
+		<change>Rebuilding the macro system</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Al3xT On Telegram</name>
+			<url>https://t.me/Al3xT</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+	</links>
+</package>
