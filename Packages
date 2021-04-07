@@ -118,3 +118,20 @@ SHA256: 2b5bb58615f0fc45580f25a84f75eae339450223ce7564ba9fe78840621769fb
 Description: This is an extension for Agar.io. You want to shoot mass faster? You want to have an advantage over other online players? That extension is just what you need. It comes with many other options and a newly redesigned user interface.
 Author: Al3xT <admin@Al3xT-IOS.com>
 Depiction: https://Al3xT-IOS.github.io/repo
+
+
+Package: com.alex.tapfire
+Name: Agario Mod Menu
+Version: 10
+Section: Tweaks
+Maintainer: Al3xT <admin@Al3xT-IOS.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/Agario_10.deb
+Size: 1677380
+MD5sum: 16cfa079ddeae8ae37a95811dd663742
+SHA1: 29676dfee3ded671fe703737fad8a2bc8c99ba44
+SHA256: 4aaea5ce98a06218f9a3deee45ff5987e746a5088ece1a437d15131ae39b38c5
+Description: This is an extension for Agar.io. You want to shoot mass faster? You want to have an advantage over other online players? That extension is just what you need. It comes with many other options and a newly redesigned user interface.
+Author: Al3xT <admin@Al3xT-IOS.com>
+Depiction: https://Al3xT-IOS.github.io/repo
